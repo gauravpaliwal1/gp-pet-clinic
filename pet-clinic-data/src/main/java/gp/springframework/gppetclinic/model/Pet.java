@@ -1,4 +1,4 @@
-package gp.spingframework.gppetclinic.model;
+package gp.springframework.gppetclinic.model;
 
 import java.time.LocalDate;
 
